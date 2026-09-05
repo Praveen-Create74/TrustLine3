@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">TrustLine</string>
+    <string name="title_activity_main">TrustLine</string>
+    <string name="package_name">com.trustline.app</string>
+    <string name="custom_url_scheme">com.trustline.app</string>
+    <string name="server_client_id">969194924987-nod8f1bsflfsmra4qrg30b72a7n1q6tf.apps.googleusercontent.com</string>
+    <string name="accessibility_service_description">Monitors incoming/outgoing VoIP call screens for TrustLine deepfake protection.</string>
+</resources>

@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "969194924987",
+    "project_id": "trustline-61317",
+    "storage_bucket": "trustline-61317.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969194924987:android:14bc444e4663d4ec23329e",
+        "android_client_info": {
+          "package_name": "AndroidManifest.xml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969194924987-nod8f1bsflfsmra4qrg30b72a7n1q6tf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2obreA2y2xRQSQmjGbV5yur5zHWU33kY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969194924987-nod8f1bsflfsmra4qrg30b72a7n1q6tf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969194924987:android:480193ebcf36c7bb23329e",
+        "android_client_info": {
+          "package_name": "com.trustline.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969194924987-nod8f1bsflfsmra4qrg30b72a7n1q6tf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2obreA2y2xRQSQmjGbV5yur5zHWU33kY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969194924987-nod8f1bsflfsmra4qrg30b72a7n1q6tf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
